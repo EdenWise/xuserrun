@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 # Run a command as the currently active X.org server user
 
 # Display usage if no parameters given
